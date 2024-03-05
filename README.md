@@ -1,4 +1,4 @@
-[![Cloud Computing](https://example.com/cloud_banner.png)](https://your-website-or-profile-url)
+![github-header-image (1)](https://github.com/prasadDPR/prasadDPR/assets/121819069/ea99ba59-1d77-4d52-b4ff-4215378ef721)
 <h1 align="center">Hi 👋, I'm Prasad</h1>
 <h3 align="center">Cloud Enthusiast</h3>
 

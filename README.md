@@ -1,12 +1,12 @@
 ![github-header-image (1)](https://github.com/prasadDPR/prasadDPR/assets/121819069/73beac35-60d0-440b-ae7a-5ab2961f4dd1)
 <h1 align="center">Hi 👋, I'm Prasad</h1>
-<h3 align="center">Cloud Support Enginner</h3>
+<h3 align="center">Cloud Ethusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prasaddpr&label=Profile%20views&color=0e75b6&style=flat" alt="prasaddpr" /> </p>
 
 - 🌱 I’m currently learning **Cloud Security**
 
-- 👨‍💻 All of my projects are available at [https://github.com/prasadDPR/My-Cloud-Projects.git](https://github.com/prasadDPR/My-Cloud-Projects.git)
+- 👨‍💻 All of my projects are available at [https://github.com/prasadDPR}
 
 - 📫 How to reach me **dprasad28062001@gmail.com**
 

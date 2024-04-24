@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prasaddpr&label=Profile%20views&color=0e75b6&style=flat" alt="prasaddpr" /> </p>
 
-- 🌱 I’m currently learning **Kubernetes, Cloud Security**
+- 🌱 I’m currently learning **Cloud Security**
 
 - 👨‍💻 All of my projects are available at [https://github.com/prasadDPR/My-Cloud-Projects.git](https://github.com/prasadDPR/My-Cloud-Projects.git)
 

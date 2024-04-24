@@ -1,4 +1,4 @@
-![github-header-image (2)](https://github.com/prasadDPR/prasadDPR/assets/121819069/73beac35-60d0-440b-ae7a-5ab2961f4dd1)
+![github-header-image (2)](https://github.com/prasadDPR/prasadDPR/assets/121819069/183c096e-6ca7-492a-80d8-e0f0c31d5ed4)
 <h1 align="center">Hi 👋, I'm Prasad</h1>
 <h3 align="center">Cloud Enthusiast</h3>
 
